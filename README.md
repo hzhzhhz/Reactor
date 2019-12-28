@@ -5,8 +5,7 @@ reactor模式就不介绍,可以参考这篇博客
 [基于I/O复用的Reactor模式](https://www.cnblogs.com/moyangvip/p/5360837.html)
 
 ## 特点
-1.c++11语法,例如function+lambda(或者bind)完成回调  
-2.采用智能指针  
+1.c++11语法,例如智能指针,function+lambda(或者bind)完成回调  
 3.epoll et模式
 
 ## Todo
